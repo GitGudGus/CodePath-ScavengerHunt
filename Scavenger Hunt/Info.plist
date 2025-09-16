@@ -24,7 +24,7 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>Needed to take photos for taks.</string>
+	<string>Needed to take photos for tasks.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Needed to attach your current location to photos.</string>
 </dict>
