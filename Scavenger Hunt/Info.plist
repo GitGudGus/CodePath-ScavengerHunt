@@ -23,5 +23,9 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Needed to take photos for taks.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Needed to attach your current location to photos.</string>
 </dict>
 </plist>

@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct Scavenger_HuntApp: App {
+struct ScavengerHuntApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskListView()
         }
     }
 }
+
